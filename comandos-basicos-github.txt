@@ -1,0 +1,49 @@
+OBSERVAÇÕES
+Markdown - formatação de texto no gitHub
+
+
+Curso GitHub - Facom Teechweek 2017 - UaiJUg
+
+1-
+git config --global user.name "Adalbertobrant"
+git config --global user.email adalbertobrant@gmail.com
+
+2-
+git init
+
+3-
+git add nome do arquivo
+git add *
+
+4-
+git status
+
+5-
+git commit -m " Arquivos iniciais " - Mensagem sem adicionar
+git commit -a -m " Arquivos iniciais " - Adiciona e coloca mensagem
+
+6-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9 - Configurar o proxy para usar o gitHub na UFU.
+    git config --global http.proxy htt://proxy.ufu.br:3128
+
+9.1- Desabilita o SSL
+    git config --global http.sslVerify "false" - desabilita o ssl
+
+10 - Clonando um repositório do gitHub
+    git clone endereço do repositório.
+
+11-
