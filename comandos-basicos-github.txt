@@ -1,4 +1,4 @@
-OBSERVAÇÕES
+﻿OBSERVAÇÕES
 Markdown - formatação de texto no gitHub
 
 
@@ -48,3 +48,7 @@ git commit -a -m " Arquivos iniciais " - Adiciona e coloca mensagem
 
 11-  Enviando o diretório
     git push
+
+12- Criar arquivo .gitkeep
+	convenção 	
+
