@@ -1,6 +1,7 @@
 ﻿OBSERVAÇÕES
 Markdown - formatação de texto no gitHub
 Issues - criação e envio de mensagens - forma de comunicação com o público
+repositório da wiki - formato markdown - que usa para atualizar o arquivo readme - no arquivo seve para colocar a ajuda no projeto e referencias do projeto 
 
 
 Curso GitHub - Facom Teechweek 2017 - UaiJUg
