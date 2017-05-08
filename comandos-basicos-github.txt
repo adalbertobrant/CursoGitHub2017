@@ -50,5 +50,5 @@ git commit -a -m " Arquivos iniciais " - Adiciona e coloca mensagem
     git push
 
 12- Criar arquivo .gitkeep
-	convenção 	
+	O github precisa que cada subdiretório esteja com arquivos dentro , se ficar subdiretório vazio usar o .gitkeep
 
