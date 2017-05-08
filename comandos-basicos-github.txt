@@ -46,4 +46,5 @@ git commit -a -m " Arquivos iniciais " - Adiciona e coloca mensagem
 10 - Clonando um repositório do gitHub
     git clone endereço do repositório.
 
-11-
+11-  Enviando o diretório
+    git push
