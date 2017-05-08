@@ -1,5 +1,6 @@
 ﻿OBSERVAÇÕES
 Markdown - formatação de texto no gitHub
+Issues - criação e envio de mensagens - forma de comunicação com o público
 
 
 Curso GitHub - Facom Teechweek 2017 - UaiJUg
@@ -51,4 +52,6 @@ git commit -a -m " Arquivos iniciais " - Adiciona e coloca mensagem
 
 12- Criar arquivo .gitkeep
 	O github precisa que cada subdiretório esteja com arquivos dentro , se ficar subdiretório vazio usar o .gitkeep
+
+
 
